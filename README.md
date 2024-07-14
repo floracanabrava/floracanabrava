@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá, eu sou a Flora! 🌻
 
-<!--
-**floracanabrava/floracanabrava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aqui você encontra um pouquinho sobre mim:
 
-Here are some ideas to get you started:
+- 🔭 **Atuação**: Treinamento e desenvolvimento | Liderança  
+- 👩‍💻 **Estudando**: Análise de dados em Python pela { Reprograma }
+- 🎓 **Formação**: Sou formada em Pedagogia pela UniBF ([*Pedagogia para Liberdade*](https://www.pedagogiaparaliberdade.com/)) e em Cinema pela UFF  
+- 🌐 **Idiomas**: Inglês, Francês (Avançado); Espanhol (Intermediário); Português (Nativo)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Curiosidades e Hobbies: 
+
+- 🐱 Tenho uma gata chamada Rita Lee a.k.a Ritinha que adora um chamego.
+- 🎧 Eu amo escutar música e faço basicamente todas as atividades do dia com um sonzinho.
+- 🎫 Gosto muito de ir em shows.
+- 🌍 Amo conhecer diferentes culturas e pessoas.
+ 
+
+#### Objetivos: 
+🌟 Utilizar os conhecimentos em análise de dados em Python para aprimorar a jornada de aprendizado e pesquisa na educação
+
+##
+
+<div>
+  <a href="https://github.com/floracanabrava">
+  <img align='right' loading="lazy" heigth='180em' src= 'https://github-readme-stats.vercel.app/api?username=floracanabrava&show_icons=true&theme=catppuccin_mocha' />
+</div>
+
+## Obrigada  
+
+🌱 Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e construir algo incrível juntos!
+
+<div>
+  <a href="https://www.linkedin.com/in/floracanabrava/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:floracanabrava@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = 'https://open.spotify.com/user/12143830282' target='_blank'><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'></a>
+
+
+---
