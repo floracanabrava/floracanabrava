@@ -23,16 +23,13 @@
 
 <div>
   <a href="https://github.com/floracanabrava">
-  <img align='right' loading="lazy" heigth='180em' src= 'https://github-readme-stats.vercel.app/api?username=floracanabrava&show_icons=true&theme=catppuccin_mocha' />
-</div>
-
-## Obrigada  
-
-🌱 Espero que tenha gostado de saber um pouco mais sobre mim! Vamos nos conectar e construir algo incrível juntos!
+  <img align='left' loading="lazy" heigth='180em' src= 'https://github-readme-stats.vercel.app/api?username=floracanabrava&show_icons=true&theme=catppuccin_mocha' />
 
 <div>
   <a href="https://www.linkedin.com/in/floracanabrava/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div>
   <a href = "mailto:floracanabrava@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>
   <a href = 'https://open.spotify.com/user/12143830282' target='_blank'><img src='https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white'></a>
 
 
